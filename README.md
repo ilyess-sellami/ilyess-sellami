@@ -19,7 +19,7 @@
 
 ### ⚡ Tech & Security Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,wazuh,aws,azure,git,github,python,ts,js" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,git,github,python,ts,js" />
 </p>
 
 <p align="center">
@@ -28,20 +28,10 @@
   <img src="https://img.shields.io/badge/DevSecOps-blue?style=for-the-badge&logo=githubactions"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyesssellami&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesssellami&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ilyess-sellami"><img src="https://img.shields.io/badge/LinkedIn-Ilyess%20Sellami-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:ilyess.sellami@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:contact.ilyessellami@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
