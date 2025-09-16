@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Graduated Cybersecurity Engineer**  
+- 🎓 Graduated **Cybersecurity Engineer**  
 - 🔒 Specialized in **Blue Team, SOC operations, incident response, and cyber defense**  
 - 🛰️ Passionate about **threat hunting, SIEM, malware analysis, and secure architectures**  
 - 🛠 Skilled in **DevSecOps, secure coding, and cloud security hardening**  
