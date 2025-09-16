@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Ilyess Sellami</h1>
-<h3 align="center">🚀 Cybersecurity Engineer | SOC Engineer | SIEM & Threat Detection Specialist</h3>
+<h3 align="center">🛡️ Cybersecurity Engineer | SOC Engineer | SIEM & Threat Detection Specialist</h3>
 
 ---
 
-### 🛡️ About Me
+### 🚀 About Me
 - 🎓 **Graduated Cybersecurity Engineer**  
 - 🔒 Specialized in **Blue Team, SOC operations, incident response, and cyber defense**  
 - 🛰️ Passionate about **threat hunting, SIEM, malware analysis, and secure architectures**  
@@ -21,6 +21,28 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,git,github,python,ts,js" />
 </p>
+
+<p align="center">
+  <!-- SOC & Blue Team -->
+  <img src="https://img.shields.io/badge/SOC-Analyst-green?style=for-the-badge&logo=datadog"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=virustotal"/>
+  <img src="https://img.shields.io/badge/Blue%20Team-Defender-blue?style=for-the-badge&logo=guard-square"/>
+  
+  <!-- SIEM & Logging -->
+  <img src="https://img.shields.io/badge/ELK%20Stack-Logging-yellow?style=for-the-badge&logo=elastic"/>
+  <img src="https://img.shields.io/badge/Splunk-SIEM-orange?style=for-the-badge&logo=splunk"/>
+  <img src="https://img.shields.io/badge/Azure%20Sentinel-SIEM-blue?style=for-the-badge&logo=microsoftazure"/>
+  
+  <!-- SOAR & Automation -->
+  <img src="https://img.shields.io/badge/SOAR-Automation-lightgrey?style=for-the-badge&logo=automation"/>
+  
+  <!-- IDS/IPS -->
+  <img src="https://img.shields.io/badge/IDS%2FIPS-Intrusion%20Detection-critical?style=for-the-badge&logo=proxmox"/>
+  
+  <!-- DevSecOps -->
+  <img src="https://img.shields.io/badge/DevSecOps-purple?style=for-the-badge&logo=githubactions"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SOC-Analyst-green?style=for-the-badge&logo=datadog"/>
