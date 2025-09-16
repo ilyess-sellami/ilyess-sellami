@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber Banner"/>
+  <img src="https://media.giphy.com/media/hun4DFmfnDId3lid5b/giphy.gif" width="100%" alt="Cybersecurity Warning / Blue Team Banner"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Ilyess Sellami</h1>
