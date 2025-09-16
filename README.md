@@ -4,22 +4,22 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Ilyess Sellami</h1>
-<h3 align="center">🚀 Cybersecurity Engineer | SOC Analyst | Blue & Red Team Enthusiast</h3>
+<h3 align="center">🚀 Cybersecurity Engineer | SOC Engineer | SIEM & Threat Detection Specialist</h3>
 
 ---
 
 ### 🛡️ About Me
-- 🎓 Master’s student in **Cloud Computing & Cybersecurity**
-- 🔒 Passionate about **offensive & defensive security**
-- 🛰️ Exploring **SOC, SIEM, Threat Hunting, and Incident Response**
-- 🛠 Skilled in **Secure Development, DevSecOps, and Cloud Security**
-- 📈 Always learning, sharing, and growing in the **cyber world**
+- 🎓 **Graduated Cybersecurity Engineer**  
+- 🔒 Specialized in **Blue Team, SOC operations, incident response, and cyber defense**  
+- 🛰️ Passionate about **threat hunting, SIEM, malware analysis, and secure architectures**  
+- 🛠 Skilled in **DevSecOps, secure coding, and cloud security hardening**  
+- 📈 Always learning, building, and contributing to the cybersecurity community  
 
 ---
 
 ### ⚡ Tech & Security Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,git,github,python,ts,react,nestjs" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,wazuh,aws,azure,git,github,python,ts,js" />
 </p>
 
 <p align="center">
