@@ -43,13 +43,6 @@
   <img src="https://img.shields.io/badge/DevSecOps-purple?style=for-the-badge&logo=githubactions"/>
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC-Analyst-green?style=for-the-badge&logo=datadog"/>
-  <img src="https://img.shields.io/badge/Threat%20Hunting-red?style=for-the-badge&logo=virustotal"/>
-  <img src="https://img.shields.io/badge/DevSecOps-blue?style=for-the-badge&logo=githubactions"/>
-</p>
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ilyess-sellami"><img src="https://img.shields.io/badge/LinkedIn-Ilyess%20Sellami-blue?style=for-the-badge&logo=linkedin"></a>
@@ -59,7 +52,7 @@
 ---
 
 <p align="center">
-  <i>“Cybersecurity is not a product, but a process of resilience.”</i>
+  <b><i>“Cybersecurity is not a product, but a process of resilience.”</i></b>
 </p>
 
 <p align="center">
